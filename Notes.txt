@@ -1,0 +1,7 @@
+Read Me:
+Lab 5.
+1) Gotten A* planning down, can be seen using print line for path_trace.
+2) Printing to screen the shortest path back from goal to start position.
+3) Fixed all bugs, able to find shortest path, accept new goal and robot able to move from current position to the goal.
+4) If goal position or path to it is not available, program will quit and need to be rerun. Make sure goal coordinate are correct.
+5) May take sometime especially when correcting angle around 0, so tranversing around horizontally in the right direction may take a while.
